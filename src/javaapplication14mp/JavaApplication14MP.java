@@ -16,7 +16,7 @@ public class JavaApplication14MP {
      */
     public static void main(String[] args) {
        
-      Scanner
+        System.out.println("hj");
     }
     
 }
